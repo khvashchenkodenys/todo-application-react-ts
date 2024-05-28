@@ -14,7 +14,7 @@ Utilizing modern web technologies, the Todo Application offers a responsive and 
  - JavaScript (ES6)
 
 ## Preview
-- [ToDo App](https://khvashchenkodenys.github.io/todo-app-react-ts/)
+- [ToDo App](https://khvashchenkodenys.github.io/todo-application-react-ts/)
 
 ## Additional Launch Instructions
 
